@@ -1,24 +1,14 @@
-{
-    "abandoned": "deeplcom/deepl-php",
-    "name": "babymarkt/deepl-php-lib",
+{   
+    "name": "strtob/deepl-php-lib",
     "type": "library",
-    "description": "DeepL API Client Library supporting PHP >= 7.3 && PHP <= 8.1",
-    "keywords": [
-      "babymarkt",
+    "description": "DeepL API Client Library",
+    "keywords": [     
       "deepl",
       "deeply",
       "i18n",
       "translation",
       "translator"
-    ],
-    "homepage": "https://github.com/Baby-Markt/deepl-php-lib",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Entwicklungsteam babymarkt.de",
-            "email": "entwicklung@babymarkt.de"
-        }
-    ],
+    ],   
     "require": {
         "php": ">=7.3",
         "ext-json": "*",
